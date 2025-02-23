@@ -1,2 +1,4 @@
 .vscode
 prod/.image-processing-venv
+prod/image-processing-workflow/old
+deprecated-idea
